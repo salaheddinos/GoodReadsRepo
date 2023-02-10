@@ -1,1 +1,11 @@
-
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+textblob
+gzip
+json
+scikit-learn
+plotly
+warnings
